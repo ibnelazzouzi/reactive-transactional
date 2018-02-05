@@ -10,8 +10,8 @@ class InteractiveMap extends Component {
         this.state = {
             viewport: {
                 latitude: 43.6536025,
-                longitude: -79.4004877,
-                zoom: 13,
+                longitude: 2.4004877,
+                zoom: 2,
                 width: this.props.width,
                 height: this.props.height,
                 startDragLngLat: null,
